@@ -30,6 +30,51 @@ Additionally, we study the structure of the fingerprints, and
 observe that it is very predictive of the effect of different
 design choices on the generative process.
 
+## Our Model Attribution Workflow
+<div class="workflow">
+  <center>
+    <img src="images/our-workflow.png">
+  </center>
+</div>
+
+## Results
+### tSNE of GM fingerprint features
+<div id="workflow">
+  <center>
+    <img src="images/tsne-gmfpts.png">
+  </center>
+</div>
+
+### Visualization of artifacts
+<div id="workflow">
+  <center>
+    <img src="images/viz-gm-artifacts.png">
+  </center>
+</div>
+
+### Model attribution accuracy
+<div id="result-1-acc">
+  <center>
+    <img src="images/results-1-acc.png">
+  </center>
+</div>
+
+### Cross-dataset Generalization 
+<div id="result-2-generalize">
+  <center>
+    <img src="images/results-2.png">
+  </center>
+</div>
+
+### Structure of artifacts
+<div id="result-3-clustering-structure">
+  <center>
+    <img src="images/results-3-clustering.png">
+  </center>
+</div>
+
+
+
 ## TODO:
 - [ ] make my project page
 
