@@ -37,6 +37,15 @@ design choices on the generative process.
   </center>
 </div>
 
+## Our dataset of generative models 
+- includes all four main families of generative models (VAE, GAN, Flow-based, Diffusion models)
+- includes SoTA models
+<div id="dataset">
+  <center>
+    <img src="images/our-gm-dataset.png">
+  </center>
+</div>
+
 ## Results
 ### tSNE of GM fingerprint features
 <div id="workflow">
