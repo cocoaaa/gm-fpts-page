@@ -4,8 +4,8 @@ remote_theme:  alshedivat/al-folio@main
 plugins:
 - jekyll-remote-theme
 
-title: Jeremy Howard
-description: Some basic examples of client interfaces to a computer vision API
+title: GM Fingerprints
+description: Some basic examples of client interfaces to ...(Todo-make my proj page)
 
 author:
-  name: Jeremy Howard
+  name: Hayley Song (@cocoaaa)
