@@ -6,6 +6,12 @@ layout: page
 # Simple demo of artifacts and fingerprints of generative models
 Paper (accepted to CVPR24): [arxiv:2402.10401](https://arxiv.org/abs/2402.10401)
 
+<div>
+  <center>
+    <img src="images/defn-gm-fpts.png">
+  </center>
+</div>
+
 TODO:
 - [ ] make my project page
 
