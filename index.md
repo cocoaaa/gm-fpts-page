@@ -4,7 +4,7 @@ layout: page
 ---
 
 # Simple demo of artifacts and fingerprints of generative models
-Paper (accepted to CVPR24): [](https://arxiv.org/abs/2402.10401)
+Paper (accepted to CVPR24): [arxiv:2402.10401](https://arxiv.org/abs/2402.10401)
 
 TODO:
 - [ ] make my project page
