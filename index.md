@@ -30,7 +30,7 @@ Additionally, we study the structure of the fingerprints, and
 observe that it is very predictive of the effect of different
 design choices on the generative process.
 
-TODO:
+## TODO:
 - [ ] make my project page
 
   
