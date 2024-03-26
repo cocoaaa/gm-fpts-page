@@ -1,4 +1,6 @@
-remote_theme: daviddarnes/alembic@main
+#remote_theme: daviddarnes/alembic@main
+remote_theme:  alshedivat/al-folio@main
+
 plugins:
 - jekyll-remote-theme
 
