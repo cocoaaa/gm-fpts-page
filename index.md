@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ManiFPT: Defining and Analyzing Fingerprints of Generative Models
 layout: page
 ---
 
@@ -34,15 +34,6 @@ design choices on the generative process.
 <div class="workflow">
   <center>
     <img src="images/our-workflow.png">
-  </center>
-</div>
-
-## Our dataset of generative models 
-- includes all four main families of generative models (VAE, GAN, Flow-based, Diffusion models)
-- includes SoTA models
-<div id="dataset">
-  <center>
-    <img src="images/our-gm-dataset.png">
   </center>
 </div>
 
@@ -81,6 +72,19 @@ design choices on the generative process.
     <img src="images/results-3-clustering.png">
   </center>
 </div>
+
+### Citation
+```bibtex
+@misc{song2024manifpt,
+      title={ManiFPT: Defining and Analyzing Fingerprints of Generative Models}, 
+      author={Hae Jin Song and Mahyar Khayatkhoei and Wael AbdAlmageed},
+      year={2024},
+      eprint={2402.10401},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+```
 
 
 
