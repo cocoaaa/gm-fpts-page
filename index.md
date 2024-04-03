@@ -3,7 +3,6 @@ title: ManiFPT: Defining and Analyzing Fingerprints of Generative Models
 layout: page
 ---
 
-# Simple demo of artifacts and fingerprints of generative models
 Paper (accepted to CVPR24): [arxiv:2402.10401](https://arxiv.org/abs/2402.10401)
 
 <div>
